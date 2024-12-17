@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AgoraChatroomUIKit'
-  s.version          = '1.0.0'
+  s.version          = '2.0.0'
   s.summary          = 'A short description of AgoraChatroomUIKit.'
   s.description      = <<-DESC
 This product is mainly designed to solve most user needs for chat rooms in pan-entertainment business scenarios. It mainly solves the problem for users that directly integrating the SDK is cumbersome and complex, and some APIs have poor experience (from the perspective of user-side developers) )And other issues. We are committed to creating chat room UIKit products with simple integration, high degree of freedom, simple process, and sufficiently detailed documentation.
@@ -27,7 +27,7 @@ This product is mainly designed to solve most user needs for chat rooms in pan-e
 
   s.source_files = ['Sources/ChatroomUIKit/Classes/**/*.swift']
   s.resources = ['Sources/ChatroomUIKit/**/*.bundle']
-  s.dependency 'HyphenateChat'
+  s.dependency 'Agora_Chat_iOS', '1.3.0'
   
   s.static_framework = true
   
