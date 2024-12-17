@@ -36,15 +36,7 @@ This guide presents an overview and usage examples of the AgoraChatroomUIKit fra
 
 # [Installation](https://github.com/AgoraIO-Usecase/AgoraChat-UIKit-Chatroom-iOS#installation)
 
-You can install AgoraChatroomUIKit with the Swift Package Manager or CocoaPods as a dependency of your Xcode project.
-
-## [Swift Package Manager](https://github.com/AgoraIO-Usecase/AgoraChat-UIKit-Chatroom-iOS#swift-package-manager)
-
-1. Open your project in Xcode.
-2. Choose **File** > **Add Package**.
-3. Search for **AgoraChatroomUIKit** and select it.
-4. Select the desired version.
-5. Click **Add Package** to add the AgoraChatroomUIKit.
+You can install AgoraChatroomUIKit with CocoaPods as a dependency of your Xcode project.
 
 ## [CocoaPods](https://github.com/AgoraIO-Usecase/AgoraChat-UIKit-Chatroom-iOS#cocoapods)
 
