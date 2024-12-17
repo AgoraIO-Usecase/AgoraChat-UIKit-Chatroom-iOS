@@ -4,7 +4,7 @@ In this project, there is a best practice demonstration project in the `Example`
 
 To experience functions of the AgoraChatroomUIKit, you can scan the following QR code to try a demo.
 
-[![SampleDemo](https://github.com/AgoraIO-Usecase/AgoraChat-UIKit-Chatroom-iOS/raw/main/Documentation/demo.png)](https://github.com/AgoraIO-Usecase/AgoraChat-UIKit-Chatroom-iOS/blob/main/Documentation/demo.png).
+[![SampleDemo](./Documentation/demo.png).
 
 # [AgoraChatroomUIKit Guide](https://github.com/AgoraIO-Usecase/AgoraChat-UIKit-Chatroom-iOS#chatroomuikit-guide)
 
